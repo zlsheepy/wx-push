@@ -2,7 +2,7 @@ module.exports = {
   appid: "wx2143198ed2c1e67e",
   appsecret: "a698ab17e6ad6f3836f62546e5f35c77",
   template_id: "TufWRhXnGV-cZnbxVFP-H7H2r1wdlihEtMMUkiIR3jc",
-  touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
+  touser: "okUEf64E4N-CRgDMlBW13ZPtVEzI",
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
   city: "上海",
